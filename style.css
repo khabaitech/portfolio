@@ -232,6 +232,12 @@ footer h3{
 
 @media(max-width: 468px){
 
+	
+	#home{
+
+		background-image:url('b.jpeg');
+		background-size: cover;
+	}
 	#home h1{
 		font-size: 30px !important;
 		margin-top: 110px;
