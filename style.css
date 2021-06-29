@@ -194,12 +194,12 @@ form label{
 
 footer{
 	background: #4B0082;
-	height: 50px;
+	height: 80px;
 	margin-top: 20px;
 }
 footer h3{
 	font-size: 20px;
-	margin-top: 10px;
+	margin-top: 30px;
 
 
 	color: white;
@@ -276,7 +276,7 @@ footer h3{
 	}
 
 	footer h3{
-	font-size: 12px;
+	font-size: 15px;
 	margin-top: 10px;
 
 	color: white;
