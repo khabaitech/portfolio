@@ -247,9 +247,7 @@ footer h3{
 		font-size: 30px !important;
 	}
 	#home img{
-		height: 230px !important;
-		
-		margin-top: 20px;
+		display:none;
 	}
 	#home .btn{
 		margin-top: 10px;
