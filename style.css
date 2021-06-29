@@ -234,14 +234,16 @@ footer h3{
 
 	#home h1{
 		font-size: 30px !important;
-		margin-top: 170px;
+		margin-top: 110px;
 
 	}
 	#home h2{
 		font-size: 30px !important;
 	}
 	#home img{
-		display: none;
+		height: 230px !important;
+		
+		margin-top: 20px;
 	}
 	#home .btn{
 		margin-top: 10px;
