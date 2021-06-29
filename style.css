@@ -240,6 +240,12 @@ footer h3{
 		font-size: 30px !important;
 	}
 	
+	#home img{
+			height:200px;
+			margin-top: 30px !important;
+	
+	}
+	
 	#home .btn{
 		margin-top: 10px;
 		height: 50px;
