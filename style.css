@@ -239,10 +239,10 @@ footer h3{
 	#home h2{
 		font-size: 30px !important;
 	}
-	.hero-img{
-		height: 343px !important;
-		width: 320px;
-		margin-top:10px;
+	#home img{
+		height: 293px !important;
+		width: 300px;
+		margin-top:-20px;
 	}
 	#home .btn{
 		margin-top: 10px;
